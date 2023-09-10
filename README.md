@@ -1,4 +1,4 @@
-# GigaHack-BioTech
+# GigaHack-BioTech - Docky
 
 ## Inspiration
 For our team, it is a pleasure to see the world of computer technology and AI help and contribute to efforts in solving real world medical problems and struggles. This is why we wanted to make a tool that helps valuable scientists and researchers achieve their goal in the betterment of the field. Enter Docky - the Biomedical Research AI Agent.
